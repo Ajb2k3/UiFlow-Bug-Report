@@ -1,5 +1,6 @@
 # UiFlow-Bug-Report
-This repository was created for the exact purpose of reporting bugs in UiFlow.
+This repository was created for the exact purpose of reporting bugs in UiFlow
+and suggesting new features.
 
 # How to report a bug
 Please make extra sure before posting that what you think is a bug is not
