@@ -1,0 +1,11 @@
+Setup - Should be Set-up or Set up.
+Color should be colour.
+Set screen rotate mode - Options should be 0, 90, 180, 270 instead of 0,1,2,3.
+get Battery Level - Should be Get Battery Level (capatalise get)
+Drop the "is" from isCharging and isCharged
+RTC config block - capatalise set (Set)
+
+
+
+Add blocks
+sdmount - sdmount()
